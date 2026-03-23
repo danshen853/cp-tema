@@ -13,7 +13,7 @@ from functools import lru_cache
 # 设置页面
 st.set_page_config(
     page_title="🎈彩票完美覆盖分析系统🎈",
-    page_icon="🎯",
+    page_icon="🎯🎈",
     layout="wide"
 )
 
