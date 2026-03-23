@@ -13,7 +13,7 @@ from functools import lru_cache
 # 设置页面
 st.set_page_config(
     page_title="🎈彩票完美覆盖分析系统🎈",
-    page_icon="🎯🎈",
+    page_icon="🎯",
     layout="wide"
 )
 
@@ -3252,7 +3252,7 @@ class MultiLotteryCoverageAnalyzer:
 
 # ==================== Streamlit界面 ====================
 def main():
-    st.title("🎯 彩票完美覆盖分析系统")
+    st.title("🎯 🎈彩票完美覆盖分析系统🎈")
     st.markdown("### 支持六合彩、时时彩、PK10、赛车、快三等多种彩票的智能对刷检测")
     
     analyzer = MultiLotteryCoverageAnalyzer()
